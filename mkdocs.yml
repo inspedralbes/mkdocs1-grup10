@@ -1,0 +1,7 @@
+site_name: Grup10
+nav:
+    - 'index.md'
+    - 'M01.md': 'M01.md'
+    - 'M02.md': 'M02.md'
+    - 'M03.md': 'M03.md'
+    - 'M04.md': 'M04.md'
